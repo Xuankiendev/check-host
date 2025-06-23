@@ -1,2 +1,8 @@
 requests
 pandas
+pyTelegramBotAPI
+urllib3
+dnspython
+python-whois
+ping3
+scapy
